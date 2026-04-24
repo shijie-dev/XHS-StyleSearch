@@ -1,1 +1,2 @@
-.\xhs_stylesearch\data
+xhs_stylesearch/data/*
+!xhs_stylesearch/data/.gitkeep
